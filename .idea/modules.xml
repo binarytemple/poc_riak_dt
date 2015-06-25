@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deps/exometer_core/test/app1/app1.iml" filepath="$PROJECT_DIR$/deps/exometer_core/test/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/basho_stats/basho_stats.iml" filepath="$PROJECT_DIR$/deps/basho_stats/basho_stats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/bear/bear.iml" filepath="$PROJECT_DIR$/deps/bear/bear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/yokozuna/misc/bench/bench.iml" filepath="$PROJECT_DIR$/deps/yokozuna/misc/bench/bench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/bitcask/bitcask.iml" filepath="$PROJECT_DIR$/deps/bitcask/bitcask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/canola/canola.iml" filepath="$PROJECT_DIR$/deps/canola/canola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/clique/clique.iml" filepath="$PROJECT_DIR$/deps/clique/clique.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/cluster_info/cluster_info.iml" filepath="$PROJECT_DIR$/deps/cluster_info/cluster_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator/creator.iml" filepath="$PROJECT_DIR$/creator/creator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/cuttlefish/cuttlefish.iml" filepath="$PROJECT_DIR$/deps/cuttlefish/cuttlefish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/edown/edown.iml" filepath="$PROJECT_DIR$/deps/edown/edown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/eleveldb/eleveldb.iml" filepath="$PROJECT_DIR$/deps/eleveldb/eleveldb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/eper/eper.iml" filepath="$PROJECT_DIR$/deps/eper/eper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/erlang_js/erlang_js.iml" filepath="$PROJECT_DIR$/deps/erlang_js/erlang_js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/erlydtl/erlydtl.iml" filepath="$PROJECT_DIR$/deps/erlydtl/erlydtl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/eunit_formatters/eunit_formatters.iml" filepath="$PROJECT_DIR$/deps/eunit_formatters/eunit_formatters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/exometer_core/exometer_core.iml" filepath="$PROJECT_DIR$/deps/exometer_core/exometer_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/folsom/folsom.iml" filepath="$PROJECT_DIR$/deps/folsom/folsom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/getopt/getopt.iml" filepath="$PROJECT_DIR$/deps/getopt/getopt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/goldrush/goldrush.iml" filepath="$PROJECT_DIR$/deps/goldrush/goldrush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/ibrowse/ibrowse.iml" filepath="$PROJECT_DIR$/deps/ibrowse/ibrowse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/kvc/kvc.iml" filepath="$PROJECT_DIR$/deps/kvc/kvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/lager/lager.iml" filepath="$PROJECT_DIR$/deps/lager/lager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/lager_syslog/lager_syslog.iml" filepath="$PROJECT_DIR$/deps/lager_syslog/lager_syslog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_search/apps/lucene_parser/lucene_parser.iml" filepath="$PROJECT_DIR$/deps/riak_search/apps/lucene_parser/lucene_parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/meck/meck.iml" filepath="$PROJECT_DIR$/deps/meck/meck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/merge_index/merge_index.iml" filepath="$PROJECT_DIR$/deps/merge_index/merge_index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mochiweb/support/templates/mochiwebapp_skel/mochiapp.iml" filepath="$PROJECT_DIR$/deps/mochiweb/support/templates/mochiwebapp_skel/mochiapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mochiweb/mochiweb.iml" filepath="$PROJECT_DIR$/deps/mochiweb/mochiweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/neotoma/neotoma.iml" filepath="$PROJECT_DIR$/deps/neotoma/neotoma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/node_package/node_package.iml" filepath="$PROJECT_DIR$/deps/node_package/node_package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/parse_trans/parse_trans.iml" filepath="$PROJECT_DIR$/deps/parse_trans/parse_trans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/pbkdf2/pbkdf2.iml" filepath="$PROJECT_DIR$/deps/pbkdf2/pbkdf2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/poolboy/poolboy.iml" filepath="$PROJECT_DIR$/deps/poolboy/poolboy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/protobuffs/protobuffs.iml" filepath="$PROJECT_DIR$/deps/protobuffs/protobuffs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/rebar_lock_deps_plugin/rebar_lock_deps_plugin.iml" filepath="$PROJECT_DIR$/deps/rebar_lock_deps_plugin/rebar_lock_deps_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_api/riak_api.iml" filepath="$PROJECT_DIR$/deps/riak_api/riak_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_auth_mods/riak_auth_mods.iml" filepath="$PROJECT_DIR$/deps/riak_auth_mods/riak_auth_mods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_control/riak_control.iml" filepath="$PROJECT_DIR$/deps/riak_control/riak_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_core/riak_core.iml" filepath="$PROJECT_DIR$/deps/riak_core/riak_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_dt/riak_dt.iml" filepath="$PROJECT_DIR$/deps/riak_dt/riak_dt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_ensemble/riak_ensemble.iml" filepath="$PROJECT_DIR$/deps/riak_ensemble/riak_ensemble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_kv/riak_kv.iml" filepath="$PROJECT_DIR$/deps/riak_kv/riak_kv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_pb/riak_pb.iml" filepath="$PROJECT_DIR$/deps/riak_pb/riak_pb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_pipe/riak_pipe.iml" filepath="$PROJECT_DIR$/deps/riak_pipe/riak_pipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_search/riak_search.iml" filepath="$PROJECT_DIR$/deps/riak_search/riak_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_sysmon/riak_sysmon.iml" filepath="$PROJECT_DIR$/deps/riak_sysmon/riak_sysmon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riaknostic/riaknostic.iml" filepath="$PROJECT_DIR$/deps/riaknostic/riaknostic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/setup/setup.iml" filepath="$PROJECT_DIR$/deps/setup/setup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/sext/sext.iml" filepath="$PROJECT_DIR$/deps/sext/sext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/sidejob/sidejob.iml" filepath="$PROJECT_DIR$/deps/sidejob/sidejob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/syslog/syslog.iml" filepath="$PROJECT_DIR$/deps/syslog/syslog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/setup/xtest/testapp-1/testapp.iml" filepath="$PROJECT_DIR$/deps/setup/xtest/testapp-1/testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/setup/xtest/testapp-2/testapp.iml" filepath="$PROJECT_DIR$/deps/setup/xtest/testapp-2/testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/webmachine/webmachine.iml" filepath="$PROJECT_DIR$/deps/webmachine/webmachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/webmachine/demo/webmachine_demo.iml" filepath="$PROJECT_DIR$/deps/webmachine/demo/webmachine_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/webmachine/priv/templates/wmskel.iml" filepath="$PROJECT_DIR$/deps/webmachine/priv/templates/wmskel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/yokozuna/yokozuna.iml" filepath="$PROJECT_DIR$/deps/yokozuna/yokozuna.iml" />
+    </modules>
+  </component>
+</project>
