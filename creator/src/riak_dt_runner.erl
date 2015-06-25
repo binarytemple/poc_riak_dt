@@ -1,8 +1,6 @@
 -module(riak_dt_runner).
 -author("bryanhunt").
 
-%% API
-
 -export([boot/0]).
 
 boot() ->
@@ -15,5 +13,11 @@ boot() ->
   {ok,Obj3} = riak_dt_orswot:update({add_all, ["foo", "bar","baz"]}, self(), riak_dt_orswot:new()),
   Merged2 = riak_dt_orswot:merge(Merged,Obj3),
   io:format("val:~p~n", [riak_dt_orswot:value(Merged2)]),
+
+  Bytes = riak_dt_orswot:to_binary(Merged2),
+
+   file:write_file("/tmp/data.dump",Bytes),
+%%    lager:msg(info,self(),"finished!"),
+  io:format("fooo~n"),
   ok
 .

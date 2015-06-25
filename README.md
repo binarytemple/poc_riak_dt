@@ -1,8 +1,7 @@
-
-
-From the project root directory starting the example:
+From the creator directory - starting the example, with logging:
 
 ```
-erl -pa /common/poc_riak_dt/creator/ebin -eval "creator_app:start(undefined, undefined)." -s init stop -noshell -pa ebin -pa creator/deps/riak_dt/ebin
+erl -pa ebin -eval "lager:start(), creator_app:start(undefined, undefined)." -s init stop -noshell -pa ebin -pa deps/riak_dt/ebin -pa deps/lager/ebin -pa deps/goldrush/ebin -config app
+
 ```
 
