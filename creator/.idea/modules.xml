@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/creator.iml" filepath="$PROJECT_DIR$/creator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/eper/eper.iml" filepath="$PROJECT_DIR$/deps/eper/eper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/goldrush/goldrush.iml" filepath="$PROJECT_DIR$/deps/goldrush/goldrush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/lager/lager.iml" filepath="$PROJECT_DIR$/deps/lager/lager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/meck/meck.iml" filepath="$PROJECT_DIR$/deps/meck/meck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_dt/riak_dt.iml" filepath="$PROJECT_DIR$/deps/riak_dt/riak_dt.iml" />
+    </modules>
+  </component>
+</project>

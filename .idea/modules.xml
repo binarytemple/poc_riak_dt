@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/creator/creator.iml" filepath="$PROJECT_DIR$/creator/creator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator/deps/eper/eper.iml" filepath="$PROJECT_DIR$/creator/deps/eper/eper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator/deps/goldrush/goldrush.iml" filepath="$PROJECT_DIR$/creator/deps/goldrush/goldrush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator/deps/lager/lager.iml" filepath="$PROJECT_DIR$/creator/deps/lager/lager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator/deps/meck/meck.iml" filepath="$PROJECT_DIR$/creator/deps/meck/meck.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/poc_riak_dt.iml" filepath="$PROJECT_DIR$/.idea/poc_riak_dt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator/deps/riak_dt/riak_dt.iml" filepath="$PROJECT_DIR$/creator/deps/riak_dt/riak_dt.iml" />
     </modules>
   </component>
 </project>

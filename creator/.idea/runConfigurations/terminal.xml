@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="terminal" type="ErlangConsoleRunConfigurationType" factoryName="Erlang Console" singleton="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <option name="consoleArgs" value="-s lager start -s creator_app start -config app" />
+    <option name="workingDirPath" value="$PROJECT_DIR$" />
+    <module name="creator" />
+    <method />
+  </configuration>
+</component>
